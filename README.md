@@ -68,6 +68,10 @@ Thus this program has been successfully executed.
 
 
 
+
+
+
+
 ## Ex.No.2B					Association Rules For Banking Dataset
 
 ## Aim:	  
@@ -131,6 +135,9 @@ female,0115,sbh,pdtr,no
 ## Result:
 
 Thus this program has been successfully executed.
+
+
+
 
 
 
